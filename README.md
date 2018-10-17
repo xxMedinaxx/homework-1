@@ -85,48 +85,48 @@ Please edit this file to add your answers to the following questions.
 
 #### 5. In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
 
-* What is the scheme/protocol?    **https**
-* What is the host?   **www.nsnsp.org**
-* What is the port number?    **443**
-* What is the path?   **commitments**
-* What are the query parameters?    **date=2017-12-09**
-* What is the fragment?   **none, because there is no #(HashTag)**
+* What is the scheme/protocol? **https**
+* What is the host? **www.nsnsp.org**
+* What is the port number? **443**
+* What is the path? **commitments**
+* What are the query parameters? **date=2017-12-09**
+* What is the fragment? **none, because there is no #(HashTag)**
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
-* What is the scheme/protocol?**http**
-* What is the host?**localhost**
-* What is the port number?**4000**
-* What is the path?**admin**
-* What are the query parameters?**none**
-* What is the fragment?**none**
+* What is the scheme/protocol? **http**
+* What is the host? **localhost**
+* What is the port number? **4000**
+* What is the path? **admin**
+* What are the query parameters? **none**
+* What is the fragment? **none**
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?**http**
-* What is the host?**www.lehman.edu**
-* What is the port number?**80**
-* What is the path?**academics/mathematics-computer-science/index.php**
-* What are the query parameters?**none**
-* What is the fragment?**none**
+* What is the scheme/protocol? **http**
+* What is the host? **www.lehman.edu**
+* What is the port number? **80**
+* What is the path? **academics/mathematics-computer-science/index.php**
+* What are the query parameters? **none**
+* What is the fragment? **none**
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?**https**
-* What is the host?**en.wikipedia.org**
-* What is the port number?**443**
-* What is the path?**wiki/Greek_alphabet**
-* What are the query parameters?**none**
-* What is the fragment?**Glyph_variants**
+* What is the scheme/protocol? **https**
+* What is the host? **en.wikipedia.org**
+* What is the port number? **443**
+* What is the path? **wiki/Greek_alphabet**
+* What are the query parameters? **none**
+* What is the fragment? **Glyph_variants**
 
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS?**secure**
+What does the S stand for in HTTPS? **secure**
 
-Why is HTTPS better than HTTP?** https is better because it offers higher security**
+Why is HTTPS better than HTTP? **https is better because it offers higher security**
 
-Should all web pages use HTTPS?**yes,always**
+Should all web pages use HTTPS? **yes,always**
 
 
 ## Webpages
