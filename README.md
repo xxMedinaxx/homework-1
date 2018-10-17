@@ -241,16 +241,25 @@ Headers float above content, with the option of flowing with content in special 
 
 What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
 
-"<table>" Defines a table
-"<th>"	Defines a header cell in a table
-"<tr>"	Defines a row in a table
-"<td>"	Defines a cell in a table
-"<caption>"	Defines a table caption
-"<colgroup>"	Specifies a group of one or more columns in a table for formatting
-"<col>"	Specifies column properties for each column within a <colgroup> element
-"<thead>"	Groups the header content in a table
-"<tbody>"	Groups the body content in a table
-"<tfoot>"	Groups the footer content in a table
+"<table>" = Defines a table
+  
+"<th>" = Defines a header cell in a table
+  
+"<tr>" = Defines a row in a table
+  
+"<td>" = Defines a cell in a table
+  
+"<caption>" = Defines a table caption
+  
+"<colgroup>" = Specifies a group of one or more columns in a table for formatting
+
+"<col>"	 = Specifies column properties for each column within a <colgroup> element
+  
+"<thead>"	= Groups the header content in a table
+  
+"<tbody>" = Groups the body content in a table
+  
+"<tfoot>"	= Groups the footer content in a table
 
 ### 22. Non-closing tags
 
